@@ -1,0 +1,51 @@
+
+.coffee-footer {
+  background-color: #352219;
+  color: white;
+  padding: 60px 0 20px;
+}
+
+.coffee-footer h3 {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.coffee-footer h5 {
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.coffee-footer p {
+  color: #d0bfb3;
+  line-height: 1.8;
+}
+
+.coffee-footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.coffee-footer li {
+  margin-bottom: 12px;
+}
+
+.coffee-footer a {
+  text-decoration: none;
+  color: #d0bfb3;
+  transition: 0.3s;
+}
+
+.coffee-footer a:hover {
+  color: #d9a778;
+}
+
+.coffee-footer hr {
+  border-color: #806b5d;
+  margin-top: 35px;
+}
+
+.copyright {
+  font-size: 13px;
+  margin-top: 20px;
+}
